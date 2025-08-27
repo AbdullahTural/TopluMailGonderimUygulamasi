@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopluMailGonderimUygulamasi.core", "TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi.core.csproj", "{DC526F21-CEA3-4C83-B032-4EF004C65689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopluMailGonderimUygulamasi.Entities", "TopluMailGonderimUygulamasi.Entities\TopluMailGonderimUygulamasi.Entities.csproj", "{DC7D5759-2958-41D6-ABD4-3AA30553B36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopluMailGonderimUygulamasi.ConsoleApp", "TopluMailGonderimUygulamasi.ConsoleApp\TopluMailGonderimUygulamasi.ConsoleApp.csproj", "{EDE0966A-5D0B-4920-AAB7-EAD9A0BF3CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopluMailGonderimUygulamasi.Goruntule", "TopluMailGonderimUygulamasi.Goruntule\TopluMailGonderimUygulamasi.Goruntule.csproj", "{E7A622A2-0E56-4C9B-80F6-628061048B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopluMailGonderimUygulamasi.W3", "TopluMailGonderimUygulamasi.W3\TopluMailGonderimUygulamasi.W3.csproj", "{E17A7559-1B39-4A7E-BB17-BFAF49E4406F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopluMailGondermeIslemleri.WinServis", "TopluMailGondermeIslemleri.WinServis\TopluMailGondermeIslemleri.WinServis.csproj", "{C60F1498-9902-45C0-A726-81C08F2C76F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC526F21-CEA3-4C83-B032-4EF004C65689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC526F21-CEA3-4C83-B032-4EF004C65689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC526F21-CEA3-4C83-B032-4EF004C65689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC526F21-CEA3-4C83-B032-4EF004C65689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7D5759-2958-41D6-ABD4-3AA30553B36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7D5759-2958-41D6-ABD4-3AA30553B36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7D5759-2958-41D6-ABD4-3AA30553B36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7D5759-2958-41D6-ABD4-3AA30553B36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE0966A-5D0B-4920-AAB7-EAD9A0BF3CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE0966A-5D0B-4920-AAB7-EAD9A0BF3CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE0966A-5D0B-4920-AAB7-EAD9A0BF3CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE0966A-5D0B-4920-AAB7-EAD9A0BF3CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A622A2-0E56-4C9B-80F6-628061048B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A622A2-0E56-4C9B-80F6-628061048B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A622A2-0E56-4C9B-80F6-628061048B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A622A2-0E56-4C9B-80F6-628061048B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17A7559-1B39-4A7E-BB17-BFAF49E4406F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17A7559-1B39-4A7E-BB17-BFAF49E4406F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17A7559-1B39-4A7E-BB17-BFAF49E4406F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17A7559-1B39-4A7E-BB17-BFAF49E4406F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60F1498-9902-45C0-A726-81C08F2C76F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60F1498-9902-45C0-A726-81C08F2C76F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60F1498-9902-45C0-A726-81C08F2C76F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60F1498-9902-45C0-A726-81C08F2C76F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBAC9F18-C5D5-45C4-A408-EC537678CB38}
+	EndGlobalSection
+EndGlobal

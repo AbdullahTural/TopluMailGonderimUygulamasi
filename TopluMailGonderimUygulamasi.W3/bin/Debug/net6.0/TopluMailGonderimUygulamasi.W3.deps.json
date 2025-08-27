@@ -1,0 +1,82 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TopluMailGonderimUygulamasi.W3/1.0.0": {
+        "dependencies": {
+          "TopluMailGonderimUygulamasi.Entities": "1.0.0",
+          "TopluMailGonderimUygulamasi.core": "1.0.0"
+        },
+        "runtime": {
+          "TopluMailGonderimUygulamasi.W3.dll": {}
+        }
+      },
+      "TopluMailGonderimUygulamasi.core/1.0.0": {
+        "dependencies": {
+          "TopluMailGonderimUygulamasi.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TopluMailGonderimUygulamasi.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": ""
+          }
+        }
+      },
+      "TopluMailGonderimUygulamasi.Entities/1.0.0": {
+        "runtime": {
+          "TopluMailGonderimUygulamasi.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NLog/5.0.0.0": {
+        "runtime": {
+          "NLog.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.4.0.3182"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TopluMailGonderimUygulamasi.W3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TopluMailGonderimUygulamasi.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TopluMailGonderimUygulamasi.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

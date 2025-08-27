@@ -1,0 +1,13 @@
+﻿'C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGondermeIslemleri.WinServis\bin\Debug\TopluMailGondermeIslemleri.WinServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGondermeIslemleri.WinServis\bin\Debug\TopluMailGondermeIslemleri.WinServis.InstallLog
+   assemblypath = C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGondermeIslemleri.WinServis\bin\Debug\TopluMailGondermeIslemleri.WinServis.exe
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGondermeIslemleri.WinServis\bin\Debug\TopluMailGondermeIslemleri.WinServis.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGondermeIslemleri.WinServis\bin\Debug\TopluMailGondermeIslemleri.WinServis.InstallLog
+   assemblypath = C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGondermeIslemleri.WinServis\bin\Debug\TopluMailGondermeIslemleri.WinServis.exe

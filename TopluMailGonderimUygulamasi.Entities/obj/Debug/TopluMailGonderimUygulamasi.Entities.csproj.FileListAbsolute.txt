@@ -1,0 +1,6 @@
+C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi.Entities\bin\Debug\TopluMailGonderimUygulamasi.Entities.dll
+C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi.Entities\bin\Debug\TopluMailGonderimUygulamasi.Entities.pdb
+C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi.Entities\obj\Debug\TopluMailGonderimUygulamasi.Entities.csproj.AssemblyReference.cache
+C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi.Entities\obj\Debug\TopluMailGonderimUygulamasi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi.Entities\obj\Debug\TopluMailGonderimUygulamasi.Entities.dll
+C:\Users\karne\source\repos\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi\TopluMailGonderimUygulamasi.Entities\obj\Debug\TopluMailGonderimUygulamasi.Entities.pdb

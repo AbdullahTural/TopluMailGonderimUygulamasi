@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC526F21-CEA3-4C83-B032-4EF004C65689}|TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi.core.csproj|c:\\users\\karne\\source\\repos\\toplumailgonderimuygulamasi\\toplumailgonderimuygulamasi\\toplumailgonderimuygulamasi\\database\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC526F21-CEA3-4C83-B032-4EF004C65689}|TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi.core.csproj|solutionrelative:toplumailgonderimuygulamasi\\database\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC526F21-CEA3-4C83-B032-4EF004C65689}|TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi.core.csproj|C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\toplumailgonderimuygulamasi\\repository\\musterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC526F21-CEA3-4C83-B032-4EF004C65689}|TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi.core.csproj|solutionrelative:toplumailgonderimuygulamasi\\repository\\musterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F1498-9902-45C0-A726-81C08F2C76F0}|TopluMailGondermeIslemleri.WinServis\\TopluMailGondermeIslemleri.WinServis.csproj|C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\toplumailgondermeislemleri.winservis\\toplumailuygulamaservisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F1498-9902-45C0-A726-81C08F2C76F0}|TopluMailGondermeIslemleri.WinServis\\TopluMailGondermeIslemleri.WinServis.csproj|solutionrelative:toplumailgondermeislemleri.winservis\\toplumailuygulamaservisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F1498-9902-45C0-A726-81C08F2C76F0}|TopluMailGondermeIslemleri.WinServis\\TopluMailGondermeIslemleri.WinServis.csproj|C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\toplumailgondermeislemleri.winservis\\toplumailuygulamaservisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C60F1498-9902-45C0-A726-81C08F2C76F0}|TopluMailGondermeIslemleri.WinServis\\TopluMailGondermeIslemleri.WinServis.csproj|solutionrelative:toplumailgondermeislemleri.winservis\\toplumailuygulamaservisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A622A2-0E56-4C9B-80F6-628061048B17}|TopluMailGonderimUygulamasi.Goruntule\\TopluMailGonderimUygulamasi.Goruntule.csproj|C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\toplumailgonderimuygulamasi.goruntule\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7A622A2-0E56-4C9B-80F6-628061048B17}|TopluMailGonderimUygulamasi.Goruntule\\TopluMailGonderimUygulamasi.Goruntule.csproj|solutionrelative:toplumailgonderimuygulamasi.goruntule\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE0966A-5D0B-4920-AAB7-EAD9A0BF3CFF}|TopluMailGonderimUygulamasi.ConsoleApp\\TopluMailGonderimUygulamasi.ConsoleApp.csproj|C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\toplumailgonderimuygulamasi.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE0966A-5D0B-4920-AAB7-EAD9A0BF3CFF}|TopluMailGonderimUygulamasi.ConsoleApp\\TopluMailGonderimUygulamasi.ConsoleApp.csproj|solutionrelative:toplumailgonderimuygulamasi.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A622A2-0E56-4C9B-80F6-628061048B17}|TopluMailGonderimUygulamasi.Goruntule\\TopluMailGonderimUygulamasi.Goruntule.csproj|C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\toplumailgonderimuygulamasi.goruntule\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A622A2-0E56-4C9B-80F6-628061048B17}|TopluMailGonderimUygulamasi.Goruntule\\TopluMailGonderimUygulamasi.Goruntule.csproj|solutionrelative:toplumailgonderimuygulamasi.goruntule\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi.Goruntule\\Form1.cs",
+              "RelativeDocumentMoniker": "TopluMailGonderimUygulamasi.Goruntule\\Form1.cs",
+              "ToolTip": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi.Goruntule\\Form1.cs [Design]",
+              "RelativeToolTip": "TopluMailGonderimUygulamasi.Goruntule\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:47:33.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "TopluMailGonderimUygulamasi.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "TopluMailGonderimUygulamasi.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACIAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:28:52.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TopluMailUygulamaServisi.cs",
+              "DocumentMoniker": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGondermeIslemleri.WinServis\\TopluMailUygulamaServisi.cs",
+              "RelativeDocumentMoniker": "TopluMailGondermeIslemleri.WinServis\\TopluMailUygulamaServisi.cs",
+              "ToolTip": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGondermeIslemleri.WinServis\\TopluMailUygulamaServisi.cs",
+              "RelativeToolTip": "TopluMailGondermeIslemleri.WinServis\\TopluMailUygulamaServisi.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:24:25.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TopluMailUygulamaServisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGondermeIslemleri.WinServis\\TopluMailUygulamaServisi.cs",
+              "RelativeDocumentMoniker": "TopluMailGondermeIslemleri.WinServis\\TopluMailUygulamaServisi.cs",
+              "ToolTip": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGondermeIslemleri.WinServis\\TopluMailUygulamaServisi.cs [Design]",
+              "RelativeToolTip": "TopluMailGondermeIslemleri.WinServis\\TopluMailUygulamaServisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:24:23.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusteriRepository.cs",
+              "DocumentMoniker": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\Repository\\MusteriRepository.cs",
+              "RelativeDocumentMoniker": "TopluMailGonderimUygulamasi\\Repository\\MusteriRepository.cs",
+              "ToolTip": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\Repository\\MusteriRepository.cs",
+              "RelativeToolTip": "TopluMailGonderimUygulamasi\\Repository\\MusteriRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:33:03.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\Database\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "TopluMailGonderimUygulamasi\\Database\\DataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\Database\\DataAccessLayer.cs",
+              "RelativeToolTip": "TopluMailGonderimUygulamasi\\Database\\DataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:15:13.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi.Goruntule\\Form1.cs",
+              "RelativeDocumentMoniker": "TopluMailGonderimUygulamasi.Goruntule\\Form1.cs",
+              "ToolTip": "C:\\Users\\karne\\source\\repos\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi\\TopluMailGonderimUygulamasi.Goruntule\\Form1.cs",
+              "RelativeToolTip": "TopluMailGonderimUygulamasi.Goruntule\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:55:18.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
