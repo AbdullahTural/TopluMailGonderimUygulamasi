@@ -1,0 +1,32 @@
+# Visual Studio cache/dosyaları
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build klasörleri
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Log dosyaları
+*.log
+
+# Veritabanı dosyaları
+*.mdf
+*.ldf
+
+# Yayınlama
+publish/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
